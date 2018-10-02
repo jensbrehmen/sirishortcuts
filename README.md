@@ -1,0 +1,2 @@
+# sirishortcuts
+Siri Shortcuts collection
