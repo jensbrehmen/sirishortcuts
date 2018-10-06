@@ -5,5 +5,5 @@ Every Shortcut has its own documentation on how it works and what’s going on b
 All Shortcuts are free to download and to use. Enjoy 🔥
 
 ## Shortcuts
-*   [Media Grabber](https://github.com/PowitOfficial/sirishortcuts/master): Download media (e.g. photos and videos) from sites like Instagram, Facebook, Tumblr, download YouTube videos and more! Supports over 1000 websites!
+*   [Media Grabber](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Media%20Grabber): Download media (e.g. photos and videos) from sites like Instagram, Facebook, Tumblr, download YouTube videos and more! Supports over 1000 websites!
 
