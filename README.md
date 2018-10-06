@@ -11,7 +11,7 @@ All Shortcuts are free to download and to use. Enjoy 🔥
 *   [YouTube Download](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/YouTube%20Download): Download YouTube videos without using third-party software, nor leaving the YouTube app on your iPhone.
 *   [Lyrics Generator](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Lyrics%20Generator): Gives you the lyrics of the song that’s currently playing. Compatible with Apple Music.
 *   [Designer Quotes](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Designer%20Quotes): Get inspired by these amazing quotes that pop up on your screen whenever you want it and have the option to save them for the future in a note.
-*   [Jokes](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Jokes): The best way to get rid of depression. Siri finally tells you random jokes on command.
+*   [Jokes](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Jokes): The best way to get rid of depression. Siri finally tells you random programming jokes on command.
 *   [QR code](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/QR%20code): Turn any text (e.g. url) into a QR code in no time.
 *   [Genderize](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Genderize): Determines your gender, based on your first name. 
 *   [Custom DND](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Custom%20DND): Custom Do Not Disturb with more options.
