@@ -1,7 +1,9 @@
 # Siri Shortcuts Collection
 ![alt text](https://raw.githubusercontent.com/PowitOfficial/sirishortcuts/master/header.jpg)
 Discover the most useful and funny hand-picked Shortcuts to make your daily life easier. 
+
 Every Shortcut has its own documentation on how it works and what’s going on behind the scenes. 
+
 All Shortcuts are free to download and to use. Enjoy 🔥
 
 ## Shortcuts
@@ -16,5 +18,12 @@ All Shortcuts are free to download and to use. Enjoy 🔥
 *   [Emergency](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Emergency): Are you in danger? Launch this shortcut as fast as possible. It saves battery life, sends your current location to your chosen contacts, starts recording secretly, while uploading it to your favorite cloud service.
 *   [Good Morning](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Good%20Morning): The dopest morning routine you’ll ever have. Siri greets you, tells the time, date, the weather, your upcoming events and the latest news. Weather functionality requires the CARROT app.
 
+## How to contribute
+Do you have a Shortcut suggestion? Or made one on your own?
+
+**Contributing is easy**:
+*   Copy the iCloud link of your Shortcut.
+*   Share your Shortcut as file '_shortcutName.shortcut_'.
+*   Send your pull request!
 
 
