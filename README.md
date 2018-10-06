@@ -17,6 +17,7 @@ All Shortcuts are free to download and to use. Enjoy 🔥
 *   [Custom DND](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Custom%20DND): Custom Do Not Disturb with more options.
 *   [Emergency](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Emergency): Are you in danger? Launch this shortcut as fast as possible. It saves battery life, sends your current location to your chosen contacts, starts recording secretly, while uploading it to your favorite cloud service.
 *   [Good Morning](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Good%20Morning): The dopest morning routine you’ll ever have. Siri greets you, tells the time, date, the weather, your upcoming events and the latest news. Weather functionality requires the CARROT app.
+*   [Optimize Image](shortcuts/Optimize&#32;Image): This is a shortcut for optimizing images with the TinyPNG Developer API.
 
 ## How to contribute
 Do you have a Shortcut suggestion? Or made one on your own?
