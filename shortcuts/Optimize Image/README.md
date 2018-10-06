@@ -12,6 +12,6 @@ Go to [TinyPNG](https://tinypng.com/developers) an fill out the form.
 You'll receive an link to your TinyPNG dashboard.  
 Here you grab your API-Key.  
   
-The last step is to paste your personal API-Key into the shortcut. 
+The last step is to paste your personal API-Key into the shortcut.   
 <img src="images/shortcut.png" width="400"> 
 
