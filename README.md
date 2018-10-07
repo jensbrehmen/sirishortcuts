@@ -8,7 +8,7 @@ All Shortcuts are free to download and to use. Enjoy 🔥
 
 ## Shortcuts
 
-    The collection gets updated regularly. Keep an eye on this page.
+    The collection gets updated regularly. Keep an eye on this repository.
     
 *   [Media Grabber](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/Media%20Grabber): Download media (e.g. photos and videos) from sites like Instagram, Facebook, Tumblr, download YouTube videos and more! Supports over 1000 websites.
 *   [YouTube Download](https://github.com/PowitOfficial/sirishortcuts/tree/master/shortcuts/YouTube%20Download): Download YouTube videos without using third-party software, nor leaving the YouTube app on your iPhone.
