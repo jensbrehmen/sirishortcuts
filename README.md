@@ -1,5 +1,5 @@
 # Siri Shortcuts Collection
-![alt text](https://raw.githubusercontent.com/PowitOfficial/sirishortcuts/master/header.jpg)
+![alt text](header.jpg)
 Discover the most useful and funny hand-picked Shortcuts to make your daily life easier. 
 
 Every Shortcut has its own documentation on how it works and what’s going on behind the scenes. 
