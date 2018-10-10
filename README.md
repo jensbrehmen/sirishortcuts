@@ -27,7 +27,7 @@ Do you have a Shortcut suggestion? Or made one on your own?
 **Contributing is easy**:
 *   Copy the iCloud link of your Shortcut.
 *   Share your Shortcut as a file _shortcutName.shortcut_.
-*   Create a _README.MD_ file with the documentation of your Shortcut.
+*   Create a _README.md_ file with the documentation of your Shortcut.
 *   Send your pull request!
 
 
