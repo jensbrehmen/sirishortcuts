@@ -3,4 +3,4 @@
 
 Gives you the lyrics of the song that’s currently playing. Compatible with Apple Music.
 
-[Download](https://www.icloud.com/shortcuts/ce5d9ff4fb524daaab3f0c886e276f28)
+[Download](https://www.icloud.com/shortcuts/6bf2182a4e8648f1bbb8c968072d70a6)
