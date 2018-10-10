@@ -7,3 +7,4 @@ Download YouTube videos without using third-party software, nor leaving the YouT
 
 ## Documentation
 This shortcut works as follows:
+![YouTube Download](images/YouTube%20Download.gif)
